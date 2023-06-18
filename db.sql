@@ -39,7 +39,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`aid`, `fname`, `username`, `password`) VALUES
-(1, 'Sailesh Sanjel', 'sailesh', '$2y$10$63hLGVzR5jrGToNywn1TMetm/.EWWVlSKFxPmfw.Vd8/ZBiADDwtm');
+(1, 'Sailesh', 'sailesh', '$2y$10$63hLGVzR5jrGToNywn1TMetm/.EWWVlSKFxPmfw.Vd8/ZBiADDwtm');
 
 -- --------------------------------------------------------
 
