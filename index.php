@@ -9,7 +9,7 @@ session_start();
    <!-- Mobile Metas -->
    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
    <!-- Site Metas -->
-   <title>Game Info</title>
+   <title>FunOlympics 2023</title>
    <meta name="keywords" content="">
    <meta name="description" content="">
    <meta name="author" content="">
